@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Micah's Musings"
+#logo = "img/profilepic.png"
+description = "Continuously Curious"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+   name = "Micah Svenson"
+   image = "/profile.png"
+   bio = "Continuously Curious"
+   headline = "Software Engineer, Space Professional, and Mountain Biking Enthusiast"
+   #headline = "Software Engineering, Space, Mountain Biking, and finding, much to my chagrin, that I care a lot about agile teams"
+   #headline = "Software Engineer with a passion for space and mountain biking"
+   links = [
+     { github = "https://github.com/micah-svenson" },
+     { linkedin = "https://linkedin.com/in/micah-svenson" },
+   ]
