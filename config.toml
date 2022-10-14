@@ -2,9 +2,12 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://micahsvenson.com/"
+baseURL = "https://www.micahsvenson.com/"
 defaultContentLanguage = "en"
 theme = "congo"
+
+title = "Micah Svenson"
+description = "Welcome to my personal website! Learn more about my career as a Software Engineer, my Mountain Biking hobby or checkout my blog -- Micah's Musings. I blog about things that interest me in the world of technology, space, and mountain biking."
 
 enableRobotsTXT = true
 paginate = 10
