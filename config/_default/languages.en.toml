@@ -5,9 +5,11 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Micah's Musings"
-#logo = "img/profilepic.png"
-description = "Continuously Curious"
+title = "Micah Svenson"
+# title = "Micah's Musings"
+# logo = "/rocket_logo.png"
+description = "Welcome to my personal website! Learn more about my career as a Software Engineer, my Mountain Biking hobby or checkout my blog -- Micah's Musings. I blog about things that interest me in the world of technology, space, and mountain biking."
+# description = "Continuously Curious"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
