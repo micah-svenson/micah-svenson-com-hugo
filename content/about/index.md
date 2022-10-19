@@ -1,11 +1,11 @@
 
 ---
 title: "About Me"
-date: 2022-10-10T00:00:00-00:01
+date: 2022-10-18T00:00:00-00:01
 draft: false
 ---
 {{< figure
-    src="IMG_5348.jpeg"
+    src="foggy_morn.jpeg"
     alt="A foggy morning in Cheyenne Canyon"
     >}}
 
